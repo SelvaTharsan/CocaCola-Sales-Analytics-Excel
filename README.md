@@ -30,7 +30,7 @@ To create an insightful Excel dashboard for Coca-Cola USA retailers that provide
 ## Dashboard
 ![Cocacola](https://github.com/user-attachments/assets/b73b3f66-4019-4ac1-9e48-2281044c2ac4)
 
-## Project Insight 
+## Project Insights
 - Brand Performance:
    - Coca-Cola brand showed strongest absolute growth (+$1.75M)
    - Fanta showed concerning decline (-$800K) requiring investigation
